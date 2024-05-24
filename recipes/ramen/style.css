@@ -1,0 +1,23 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1,
+h2,
+h3 {
+    text-align: center;
+    color:black;
+    background-color: rgb(156, 156, 250);
+}
+
+.ramen {
+    height:auto;
+    width:150px;
+}
+
+p,
+ul,
+ol {
+    background-color: palegoldenrod;
+    text-align: center;
+}
