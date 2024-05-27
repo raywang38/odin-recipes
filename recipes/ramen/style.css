@@ -8,6 +8,7 @@ h3 {
     text-align: center;
     color:black;
     background-color: rgb(156, 156, 250);
+    border: 20px;
 }
 
 .ramen {
@@ -20,4 +21,15 @@ ul,
 ol {
     background-color: palegoldenrod;
     text-align: center;
+    padding: 12px;
+    margin: 30px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin: 20px;
+    padding: 2px;
 }
